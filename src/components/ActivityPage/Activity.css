@@ -1,0 +1,26 @@
+.activity-section {
+  max-width: 20%;
+}
+.upgrade-button {
+  border: 0.5px solid var(--text-grey-border);
+  border-radius: 10px;
+}
+.upgrade-icon {
+  fill: var(--text-purple);
+}
+.tasks-img {
+  height: 30px;
+  width: 30px;
+  /* border: 2px solid var(--text-purple); */
+  /* border-radius: 50%; */
+}
+.tasks-svg {
+  fill: var(--text-grey-v2);
+}
+.notification-icon {
+  position: relative;
+}
+.nottif-badge {
+  background-color: var(--text-grey-v2);
+  border-radius: 50%;
+}

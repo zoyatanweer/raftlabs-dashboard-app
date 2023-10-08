@@ -1,0 +1,45 @@
+.homepage-section {
+  margin-left: 1rem;
+}
+
+.monthly-revenue-section {
+  background-color: #6e62e5;
+  border-radius: 10px;
+  color: #ffffff;
+  /* display: flex; */
+  /* padding: 1.5rem; */
+}
+.monthly-revenue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-right: 1rem;
+  margin-right: 1rem;
+}
+.monthly-revenue-img {
+  height: 40px;
+  width: 40px;
+
+  margin-right: 15px;
+}
+.monthly-revenue-increase {
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+/* total sales and cost */
+.total-sales-and-cost-section {
+  border: 1px solid var(--text-grey-border);
+  border-radius: 10px;
+  padding: 1.5rem;
+}
+
+.total-sales {
+  color: var(--text-purple);
+}
+.total-sales-green {
+  color: var(--text-green);
+}
+.total-sales-grey {
+  color: var(--text-grey-v2);
+}
